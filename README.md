@@ -5,4 +5,3 @@
 💡 Passionate about #finops, #awscloud, #gcpcloud, #cloudarchitecture, and #awssolutionsarchitect
 🚀 Let's collaborate on creating efficient and scalable cloud solutions!
 📧 Reach me at vishvbgajjar@gmail.com
-🔗 Connect on LinkedIn
